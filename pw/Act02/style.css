@@ -1,0 +1,24 @@
+h1 {
+    width: fit-content;
+    margin: 10px auto;
+    color: rgb(41, 122, 8);
+    align: "center";
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    width: 80px;
+    height: 80px;
+
+}
+.bg{
+    background-color: black;
+}
+
+td:hover {
+    background-color: rgba(255, 0, 0, 0.5);
+}
