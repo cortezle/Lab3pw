@@ -1,4 +1,157 @@
 .normal{
-    size: 20px;
-    display: inline;
+    color: gray;
+}
+
+.pequeña{
+    font-size: 10px;
+    color:gray;
+}
+
+.grande{
+    font-size: 30px;
+    color: gray;
+}
+
+.esmeralda{
+    background-color: #57d68d;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.cielo{
+    background-color: #5cace2;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.amatista{
+    background-color:#ae7ac4;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.asfalto{
+    background-color:#5c6d7e;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.topazio{
+    background-color:#ea974e;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.rubi{
+    background-color:#eb6f62;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.simple{
+    background-color: white;
+    color: gray;
+    border: 2px solid gray;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.esmeralda2{
+    background-color: white;
+    color: #57d68d;
+    border: 2px solid #57d68d;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.cielo2{
+    background-color: white;
+    color:#5cace2;
+    border: 2px solid #5cace2;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.asfalto2{
+    background-color: white;
+    color: #5c6d7e;
+    border: 2px solid #5c6d7e;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.amatista2{
+    background-color: white;
+    color: #ae7ac4;
+    border: 2px solid #ae7ac4;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.topazio2{
+    background-color: white;
+    color: #ea974e;
+    border: 2px solid #ea974e;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.rubi2{
+    background-color: white;
+    color: #eb6f62;
+    border: 2px solid#eb6f62;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.largoAsfalto{
+    background-color:#5c6d7e;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.bordeDelCielo{
+    background-color: white;
+    color:#5cace2;
+    border: 2px solid #5cace2;
+    border-radius: 8px;
+    padding: 5px;   
+}
+
+.pequeñaEsmeralda{
+    background-color: #57d68d;
+    color: white;
+    font-size: 10px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.granBordeRubi{
+    background-color: white;
+    color: #eb6f62;
+    border: 2px solid#eb6f62;
+    font-size: 30px;
+    border-radius: 8px;
+    padding: 5px;
 }
